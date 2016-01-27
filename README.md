@@ -1,3 +1,6 @@
+#Angular2 Reddit Base
+This small angular 2 app was built following a tutorial from the ng-book2 book.
+
 # Getting started
 
 To install dependencies and start compiling:
